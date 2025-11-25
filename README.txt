@@ -1,4 +1,4 @@
-Projeto – Fase 2: PetShop Feliz
+# Projeto – Fase 2: PetShop Feliz
 
 Autor: Paulo Henrique Ferreira de Oliveira
 
